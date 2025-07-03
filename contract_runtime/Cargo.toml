@@ -1,0 +1,18 @@
+[package]
+name = "contract_runtime"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+common = { path = "../common" }
+dag_core = { path = "../dag_core" }
+tokio.workspace = true
+async-trait.workspace = true
+serde.workspace = true
+dashmap.workspace = true
+thiserror.workspace = true
+anyhow.workspace = true
+tracing.workspace = true
+wasmer = "4.2"
+wasmer-compiler-cranelift = "4.2"
+wasmer-middlewares = "4.2"
