@@ -1,3 +1,13 @@
+> [!WARNING]
+> ## Deprecated and Archived
+>
+> This standalone prototype has been superseded by the active monorepo.
+> The maintained DAG Layer 1 implementation now lives in
+> [extropy-engine/packages/dag-substrate](https://github.com/00ranman/extropy-engine/tree/main/packages/dag-substrate).
+>
+> This repository is archived (read-only) and kept for history. Do not build on it.
+> See [ECOSYSTEM_MAP.md](https://github.com/00ranman/extropy-engine/blob/main/ECOSYSTEM_MAP.md) for the full mapping.
+
 # ⚠️ DEPRECATED — Use [xp-dag-mesh](https://github.com/00ranman/xp-dag-mesh)
 
 > **This repository has been superseded by [xp-dag-mesh](https://github.com/00ranman/xp-dag-mesh).**
